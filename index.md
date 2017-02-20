@@ -4,8 +4,3 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-
-
-<h2>Index</h2>
-
-Testing.
