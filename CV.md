@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Contact
-permalink: /contact/
+title: CV
+permalink: /cv/
 ---
 
 You can download my CV in PDF [here is possible to download the file in PDF][1]
