@@ -4,6 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-Contact content goes here.
+Hi there! Please contact me via email:
 
-My e-mail is kia.timonen [at] aalto.fi.
+kia.timonen [at] aalto.fi
