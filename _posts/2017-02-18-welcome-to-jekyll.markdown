@@ -1,25 +1,21 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
-date:   2017-02-18 01:18:40 +0200
-categories: jekyll update
+title:  "U-Create seminar speaker"
+date:   2017-02-21 14:09:00 +0200
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+[The U-Create seminar][ucreate] took place on Nov 1st-2nd, 2016 at the new Aalto University Learning Centre. As part of the program, I attended and spoke at a panel titled "Pizza & a date with University Wide Art Studies", along with UWAS Project Manager Juuso Tervo, Professor Harri Laakso, Vice President of Education Eero Eloranta, and Lecturers Kirsi Peltonen and Andy Best. 
 
-Jekyll also offers powerful support for code snippets:
+Excerpt from [UWAS' website][uwas]:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+"At Aalto University we believe the future of education exists at the crossroads of science, technology, business and art. University Wide Art Studies (UWAS) offers access to art-based thinking for every discipline in the university through a series of field neutral courses on creativity and culture."
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+I believe transdisciplinary learning to be a necessity in the near-future world of work, which is why I am passionate about this project. On top of that, I fully stand by [Aalto University's values][values], from which I would especially like to highlight the following: 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+* Integrity
+* Openness
+* Equality
+
+[ucreate]: http://uwas.aalto.fi/ucreate
+[uwas]: http://uwas.aalto.fi
+[values]: http://www.aalto.fi/en/about/strategy/
