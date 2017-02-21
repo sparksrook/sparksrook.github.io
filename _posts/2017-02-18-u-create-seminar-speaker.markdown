@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "U-Create seminar speaker"
 date:   2017-02-21 14:09:00 +0200
 ---
@@ -8,7 +8,7 @@ date:   2017-02-21 14:09:00 +0200
 
 Excerpt from [UWAS' website][uwas]:
 
-"At Aalto University we believe the future of education exists at the crossroads of science, technology, business and art. University Wide Art Studies (UWAS) offers access to art-based thinking for every discipline in the university through a series of field neutral courses on creativity and culture."
+>"At Aalto University we believe the future of education exists at the crossroads of science, technology, business and art. University Wide Art Studies (UWAS) offers access to art-based thinking for every discipline in the university through a series of field neutral courses on creativity and culture."
 
 I believe transdisciplinary learning to be a necessity in the near-future world of work, which is why I am passionate about this project. On top of that, I fully stand by [Aalto University's values][values], from which I would especially like to highlight the following: 
 
