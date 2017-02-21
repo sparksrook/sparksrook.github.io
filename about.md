@@ -18,4 +18,6 @@ I'm interested in story-telling. For peace of mind, I will always turn to my cam
 
 While I'm still very much learning, I'm loving the process and wouldn't object to sharing the experience with You.
 
-I'm currently looking for work in the summer of 2017. Feel free to download my CV from the link above, and contact me via email (firstname.secondname at aalto.fi)!
+I'm currently looking for work in the summer of 2017. Feel free to [download my CV][1], and contact me via email (firstname.secondname at aalto.fi)!
+
+[1]:{{ site.url }}/cv/
